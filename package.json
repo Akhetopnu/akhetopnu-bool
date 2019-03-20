@@ -1,0 +1,18 @@
+{
+  "name": "@akhetopnu/bool",
+  "version": "0.0.1",
+  "description": "Utility functions for boolean/logical operations",
+  "repository": "https://github.com/Akhetopnu/akhetopnu-bool",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "functional",
+    "pure",
+    "vanilla"
+  ],
+  "author": "Akhetopnu",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "WTFPL"
+}
